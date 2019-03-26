@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233553575673",
+    "firebase_url": "https://learnchatapp-edb5e.firebaseio.com",
+    "project_id": "learnchatapp-edb5e",
+    "storage_bucket": "learnchatapp-edb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233553575673:android:f1523b00ef703438",
+        "android_client_info": {
+          "package_name": "com.example.learnchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233553575673-di8r257sk096sgq388653earn8b4s8ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnchatapp",
+            "certificate_hash": "4bb7e3eb33a800b80e485f47a0bb79553fe7bfe9"
+          }
+        },
+        {
+          "client_id": "233553575673-kkqtgfjurksaqit08hbhskagbq8bjmnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUoQAxhN6GHXgFlgNiPrYspEvENd32YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233553575673-kkqtgfjurksaqit08hbhskagbq8bjmnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
